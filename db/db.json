@@ -4,36 +4,81 @@
       "id": 1,
       "name": "Deziree Darren",
       "age": 22,
-      "previousAppointment": "6/12/2023",
-      "nextAppointment": "7/3/2023"
+      "previousAppointment": "09/09/2024",
+      "nextAppointment": "09/12/2024",
+      "diagnosis": "Post-Traumatic Stress Disorder (PTSD)",
+      "notes": "The client reports frequent flashbacks, nightmares, and severe anxiety related to a traumatic incident approximately two years ago. He experiences difficulty sleeping, feelings of hypervigilance, and avoids places or situations that remind him of the event. He acknowledges feeling disconnected from friends and family, often finding it hard to express emotions. He describes intense feelings of guilt and frustration with his inability to move past the trauma",
+      "observations": "Physically, he appears restless, often fidgeting or looking around the room, likely a manifestation of hypervigilance."
     },
     {
       "id": 2,
       "name": "Mahala Fulton",
       "age": 43,
-      "previousAppointment": "6/13/2023",
-      "nextAppointment": "7/4/2023"
+      "previousAppointment": "06/13/2024",
+      "nextAppointment": "07/4/2024",
+      "diagnosis": "Clinical Depression",
+      "notes": "The client is beginning the acceptance stage after her husband's death. Good progress",
+      "observations": "Appears to be more relaxed and happier"
     },
     {
       "id": 3,
-      "name": "Jazmin Lee",
+      "name": "Lee Chung",
       "age": 39,
-      "previousAppointment": "6/14/2023",
-      "nextAppointment": "7/5/2023"
+      "previousAppointment": "11/14/2024",
+      "nextAppointment": "11/15/2024",
+      "diagnosis": "Diagnosed with Dissociative Identity Disorder (DID)",
+      "notes": "The client reports frequent memory gaps, ",
+      "observations": "He describes experiencing distinct shifts in personality accompanied by different voices, mannerisms, and attitudes."
     },
     {
       "id": 4,
       "name": "Cedric Doran",
       "age": 35,
-      "previousAppointment": "6/16/2023",
-      "nextAppointment": "7/7/2023"
+      "previousAppointment": "09/16/2024",
+      "nextAppointment": "11/7/2024",
+      "diagnosis": "Bipolar Disorder",
+      "notes": "The client reports experiencing intense mood swings, with recent episodes of elevated energy, rapid thoughts, and impulsive decisions, followed by periods of extreme fatigue, hopelessness, and difficulty functioning.",
+      "observations": "Client exhibited pressured speech and restlessness, consistent with manic symptoms, especially when discussing recent decisions."  
     },
     {
       "id": 5,
       "name": "Adrianna James",
       "age": 34,
-      "previousAppointment": "6/15/2023",
-      "nextAppointment": "7/6/2023"
+      "previousAppointment": "10/15/2024",
+      "nextAppointment": "11/6/2024",
+      "diagnosis": "Schizophrenia",
+      "notes": "The client reports experiencing auditory hallucinations, primarily voices that criticize or comment on her actions",
+      "observations": "Exhibited signs of auditory hallucinations during the session, glancing around the room as if responding to sounds others couldn’t hear."      
+    },
+    {
+      "id": 6,
+      "name": "Conrad Hawkins",
+      "age": 24,
+      "previousAppointment": "09/23/2024",
+      "nextAppointment": "09/31/2024",
+      "diagnosis": "Social anxiety",
+      "notes": "The client reports intense fear and anxiety in social situations, especially around unfamiliar people or when he believes he’s being observed.",
+      "observations": "Expressed self-critical thoughts, mentioning a fear of being judged and frequently second-guessing his statements."
+    },
+    {
+    "id": 7,
+    "name": "Lane Hunter",
+    "age": 28,
+    "previousAppointment": "10/1/2024",
+    "nextAppointment": "10/4/2024",
+    "diagnosis": "Obsessive-Compulsive Disorder (OCD)",
+    "notes": "The client is beginning the acceptance stage after her husband's death. Good progress",
+    "observations": "The client describes recurring intrusive thoughts related to harm and contamination, and tries to manage the thoughts by engaging in compulsive behaviors such as excessive handwashing"
+    },
+    {
+    "id": 8,
+    "name": "Nellie Jessie",
+    "age": 24,
+    "previousAppointment": "11/24/2024",
+    "nextAppointment": "11/29/2024",
+    "diagnosis": "Generalized Anxiety Disorder (GAD), Chronic Anxiety",
+    "notes": "The client describes persistent, excessive worry about a wide range of topics, including work performance, family health, finances, and future plans.",
+    "observations": "Client appeared visibly tense and seemed exhausted, suggesting disrupted sleep patterns"
     }
   ]
 }
