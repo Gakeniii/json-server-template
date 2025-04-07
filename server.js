@@ -10,8 +10,20 @@ server.use(jsonServer.bodyParser);
 server.use(middlewares);
 server.use(router);
 
-const PORT = process.env.PORT || 3000;
+// const PORT = process.env.PORT || 3000;
 
-server.listen(PORT, () => {
-  console.log(`JSON Server is running on http://localhost:${PORT}`);
-});
+// server.listen(PORT, () => {
+//   console.log(`JSON Server is running on http://localhost:${PORT}`);
+// });
+
+// const jsonServer = require('json-server')
+// const server = jsonServer.create()
+// const router = jsonServer.router('db/db.json') // Adjust path if needed
+// const middlewares = jsonServer.defaults()
+// const cors = require('cors')
+
+// server.use(cors())
+// server.use(middlewares)
+// server.use(router)
+
+module.exports = server
